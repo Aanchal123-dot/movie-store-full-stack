@@ -1,4 +1,4 @@
-# Netflix-Clone-MERN-stack
+# movie-store-full-stack
 
 Challenge to build a clone of NETFLIX web app with the TMDB API data. The goal was to show movies and Web series information on Webpage.
 
@@ -20,7 +20,7 @@ Challenge to build a clone of NETFLIX web app with the TMDB API data. The goal w
   - We can use email and password for signup then can login with that id and password
   
 ## Link to Hosted Website
-  - [Click to View](https://netflix-clone-sachinkr7368.vercel.app/)  
+  - [Click to View](https://movie-store-umber.vercel.app/)  
   *(Hosted on Vercel)*
 
 ## For Bonus Points
